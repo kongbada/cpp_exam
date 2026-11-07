@@ -1,6 +1,6 @@
 #include <iostream>
 
 int main() {
-    std::cout << "Hello World v2 from A\n";
+    std::cout << "Hello World v3 from B\n";
     return 0;
 }
