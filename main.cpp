@@ -1,6 +1,6 @@
 #include <iostream>
 
 int main() {
-    std::cout << "Hello World v3 from B\n";
+    std::cout << "Hello World from feature-message\n";
     return 0;
 }
